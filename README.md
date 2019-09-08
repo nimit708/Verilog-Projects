@@ -23,5 +23,5 @@ This project was simulated on EDA Playground (https://www.edaplayground.com/x/4E
 
 A glimps of the EPWave observed for the simulation of testbench_fifo_module.v : -
 
-
+<img width="1345" alt="Screenshot 2019-09-08 at 11 41 01 AM" src="https://user-images.githubusercontent.com/44131660/64493247-6e12cb00-d29b-11e9-92f0-7369a220e3ab.png">
 
